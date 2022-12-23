@@ -1,0 +1,2 @@
+model_checkpoint_path: "bowling_trained.h5py"
+all_model_checkpoint_paths: "bowling_trained.h5py"
